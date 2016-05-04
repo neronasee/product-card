@@ -1,0 +1,22 @@
+.idea/
+node_modules
+.sublime-gulp.cache
+gulpfile.js
+package.json
+.sass-cache
+*.o
+*.lo
+*.la
+*.al
+.libs
+*.so
+*.so.[0-9]*
+*.a
+*.pyc
+*.pyo __pycache__ *.rej
+ *~
+ #*#
+ .#*
+ .*.swp
+ .DS_Store
+*.cfg
